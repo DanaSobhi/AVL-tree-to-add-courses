@@ -1,0 +1,108 @@
+Digital Systems:0#ENCS3013#Computer Engineering/Why are you looking here?
+Introduction to programming:9#COMP4925#Computer Science/Time Complexity
+Circuit Analysis:8#ENEE2865#Electrical Engineering/30 lines
+Introduction to programming:0#COMP5064#Computer Science/Time Complexity
+Introduction to programming:6#COMP5603#Computer Science/Why are you looking here?
+Circuit Analysis:1#ENEE4157#Electrical Engineering/30 lines
+Introduction to programming:4#COMP2415#Computer Science/Time Complexity
+Circuit Analysis:8#ENEE5801#Electrical Engineering/topic = random.choice(topics)
+Introduction to programming:8#COMP2839#Computer Science/Some Random topic
+Circuit Analysis:4#ENEE3486#Electrical Engineering/Python Script
+Digital Systems:7#ENCS2779#Computer Engineering/this is a topic
+Circuit Analysis:8#ENEE3839#Electrical Engineering/topic = random.choice(topics)
+Introduction to programming:5#COMP2501#Computer Science/30 lines
+Digital Systems:0#ENCS3080#Computer Engineering/Why are you looking here?
+Introduction to programming:0#COMP4005#Computer Science/this is a topic
+Introduction to programming:7#COMP5716#Computer Science/30 lines
+Introduction to programming:1#COMP3106#Computer Science/Python Script
+Circuit Analysis:0#ENEE5030#Electrical Engineering/Why are you looking here?
+Introduction to programming:4#COMP2445#Computer Science/Why are you looking here?
+Digital Systems:6#ENCS5677#Computer Engineering/topic = random.choice(topics)
+Digital Systems:0#ENCS4045#Computer Engineering/Why are you looking here?
+Circuit Analysis:8#ENEE2844#Electrical Engineering/Some Random topic
+Digital Systems:1#ENCS5116#Computer Engineering/topic = random.choice(topics)
+Introduction to programming:1#COMP3131#Computer Science/Time Complexity
+Circuit Analysis:0#ENEE5076#Electrical Engineering/Some Random topic
+Digital Systems:9#ENCS2982#Computer Engineering/this is a topic
+Digital Systems:3#ENCS2398#Computer Engineering/Time Complexity
+Circuit Analysis:1#ENEE5196#Electrical Engineering/Python Script
+Introduction to programming:4#COMP5466#Computer Science/Python Script
+Circuit Analysis:7#ENEE2718#Electrical Engineering/this is a topic
+Introduction to programming:0#COMP5075#Computer Science/Why are you looking here?
+Digital Systems:4#ENCS2457#Computer Engineering/Time Complexity
+Digital Systems:3#ENCS4337#Computer Engineering/Python Script
+Digital Systems:6#ENCS2697#Computer Engineering/30 lines
+Introduction to programming:0#COMP4044#Computer Science/topic = random.choice(topics)
+Circuit Analysis:7#ENEE3744#Electrical Engineering/30 lines
+Introduction to programming:2#COMP3253#Computer Science/30 lines
+Circuit Analysis:9#ENEE3957#Electrical Engineering/Some Random topic
+Introduction to programming:7#COMP2752#Computer Science/Why are you looking here?
+Circuit Analysis:8#ENEE3881#Electrical Engineering/30 lines
+Introduction to programming:5#COMP4561#Computer Science/Some Random topic
+Digital Systems:5#ENCS3529#Computer Engineering/Time Complexity
+Digital Systems:5#ENCS3520#Computer Engineering/Time Complexity
+Introduction to programming:8#COMP4896#Computer Science/this is a topic
+Circuit Analysis:7#ENEE3749#Electrical Engineering/Time Complexity
+Data structures:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+Intro to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+Introduction to French:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
+Data structures:4#COMP2419#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+Introduction to French:3#FREN11#French Language/letters, numbers, greetings, grammars, statements
+Data:4#COMP241#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+programming:3#COM133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+Introduction to French:3#FEN1#French Language/letters, numbers, greetings, grammars, statement
+Introduction to programming:7#COMP2723#Computer Science/topic = random.choice(topics)
+Digital Systems:0#ENCS2056#Computer Engineering/Some Random topic
+Introduction to programming:1#COMP5108#Computer Science/Python Script
+Introduction to programming:8#COMP2825#Computer Science/Python Script
+Circuit Analysis:7#ENEE5736#Electrical Engineering/Why are you looking here?
+Introduction to programming:0#COMP2036#Computer Science/Why are you looking here?
+Digital Systems:4#ENCS4495#Computer Engineering/Time Complexity
+Introduction to programming:6#COMP3600#Computer Science/topic = random.choice(topics)
+Digital Systems:9#ENCS2918#Computer Engineering/Some Random topic
+Digital Systems:7#ENCS2732#Computer Engineering/Why are you looking here?
+Digital Systems:7#ENCS2766#Computer Engineering/Time Complexity
+Circuit Analysis:8#ENEE5859#Electrical Engineering/topic = random.choice(topics)
+Circuit Analysis:1#ENEE3145#Electrical Engineering/topic = random.choice(topics)
+Introduction to programming:6#COMP5674#Computer Science/Time Complexity
+Circuit Analysis:4#ENEE4483#Electrical Engineering/topic = random.choice(topics)
+Circuit Analysis:4#ENEE4485#Electrical Engineering/Some Random topic
+Circuit Analysis:3#ENEE5396#Electrical Engineering/Some Random topic
+Circuit Analysis:4#ENEE3472#Electrical Engineering/Time Complexity
+Circuit Analysis:2#ENEE4281#Electrical Engineering/Python Script
+Circuit Analysis:5#ENEE3588#Electrical Engineering/this is a topic
+Circuit Analysis:5#ENEE4507#Electrical Engineering/topic = random.choice(topics)
+Digital Systems:3#ENCS5397#Computer Engineering/topic = random.choice(topics)
+Digital Systems:5#ENCS2560#Computer Engineering/this is a topic
+Circuit Analysis:4#ENEE2458#Electrical Engineering/Why are you looking here?
+Digital Systems:2#ENCS3297#Computer Engineering/30 lines
+Introduction to programming:3#COMP5305#Computer Science/Some Random topic
+Introduction to programming:2#COMP2297#Computer Science/Why are you looking here?
+Circuit Analysis:3#ENEE4322#Electrical Engineering/Time Complexity
+Digital Systems:7#ENCS3707#Computer Engineering/30 lines
+Introduction to programming:4#COMP5419#Computer Science/topic = random.choice(topics)
+Circuit Analysis:6#ENEE3615#Electrical Engineering/Some Random topic
+Introduction to programming:2#COMP3225#Computer Science/this is a topic
+Introduction to programming:5#COMP4521#Computer Science/this is a topic
+Circuit Analysis:1#ENEE4134#Electrical Engineering/topic = random.choice(topics)
+Introduction to programming:4#COMP2498#Computer Science/Why are you looking here?
+Digital Systems:2#ENCS5286#Computer Engineering/Some Random topic
+Circuit Analysis:2#ENEE4202#Electrical Engineering/Why are you looking here?
+Introduction to programming:0#COMP2043#Computer Science/30 lines
+Digital Systems:7#ENCS2797#Computer Engineering/this is a topic
+Circuit Analysis:1#ENEE4116#Electrical Engineering/Some Random topic
+Introduction to programming:1#COMP4168#Computer Science/Why are you looking here?
+Introduction to programming:7#COMP2702#Computer Science/30 lines
+Digital Systems:5#ENCS3545#Computer Engineering/Some Random topic
+Introduction to programming:1#COMP3123#Computer Science/Some Random topic
+Digital Systems:6#ENCS2660#Computer Engineering/30 lines
+Circuit Analysis:7#ENEE2788#Electrical Engineering/Python Script
+Digital Systems:6#ENCS2639#Computer Engineering/this is a topic
+Digital Systems:5#ENCS3541#Computer Engineering/Why are you looking here?
+Circuit Analysis:9#ENEE5984#Electrical Engineering/Time Complexity
+Introduction to programming:3#COMP2391#Computer Science/Some Random topic
+Introduction to programming:7#COMP4738#Computer Science/Time Complexity
+Digital Systems:4#ENCS4482#Computer Engineering/Python Script
+Introduction to programming:1#COMP2158#Computer Science/topic = random.choice(topics)
+Circuit Analysis:9#ENEE4969#Electrical Engineering/Why are you looking here?
+Circuit Analysis:5#ENEE2547#Electrical Engineering/Some Random topic

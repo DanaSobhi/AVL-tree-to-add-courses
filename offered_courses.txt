@@ -1,0 +1,518 @@
+Course ID: COMP5716  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	7 	 30 lines
+
+---------------------------------------------------------------
+Course ID: COMP4005  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: COMP2445  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP2297  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	2 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP2036  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP133  ||	 Name : Intro to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	3 	 algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+
+---------------------------------------------------------------
+Course ID: COM133  ||	 Name : programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	3 	 algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+
+---------------------------------------------------------------
+Course ID: COMP2043  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 30 lines
+
+---------------------------------------------------------------
+Course ID: COMP2158  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: COMP2415  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: COMP241  ||	 Name : Data 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+
+---------------------------------------------------------------
+Course ID: COMP2391  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	3 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: COMP2421  ||	 Name : Data structures 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+
+---------------------------------------------------------------
+Course ID: COMP2419  ||	 Name : Data structures 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+
+---------------------------------------------------------------
+Course ID: COMP2839  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	8 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: COMP2723  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	7 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: COMP2501  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	5 	 30 lines
+
+---------------------------------------------------------------
+Course ID: COMP2498  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP2702  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	7 	 30 lines
+
+---------------------------------------------------------------
+Course ID: COMP2752  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	7 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP2825  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	8 	 Python Script
+
+---------------------------------------------------------------
+Course ID: COMP3131  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: COMP3106  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 Python Script
+
+---------------------------------------------------------------
+Course ID: COMP3123  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: COMP3253  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	2 	 30 lines
+
+---------------------------------------------------------------
+Course ID: COMP3225  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	2 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: COMP3600  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	6 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: COMP5064  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: COMP4561  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	5 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: COMP4168  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP4044  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: COMP4521  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	5 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: COMP4896  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	8 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: COMP4738  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	7 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: COMP4925  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	9 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: COMP5466  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 Python Script
+
+---------------------------------------------------------------
+Course ID: COMP5108  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	1 	 Python Script
+
+---------------------------------------------------------------
+Course ID: COMP5075  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	0 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP5305  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	3 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: COMP5419  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	4 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: COMP5603  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	6 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: COMP5674  ||	 Name : Introduction to programming 
+Department : Computer Science 
+
+Number of hours And topic presented:
+	6 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS3013  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	0 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: ENCS2732  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	7 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: ENCS2457  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	4 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS2398  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	3 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS2056  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	0 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: ENCS2660  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	6 	 30 lines
+
+---------------------------------------------------------------
+Course ID: ENCS2560  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	5 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: ENCS2639  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	6 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: ENCS2697  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	6 	 30 lines
+
+---------------------------------------------------------------
+Course ID: ENCS2779  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	7 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: ENCS2766  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	7 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS2918  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	9 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: ENCS2797  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	7 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: ENCS2982  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	9 	 this is a topic
+
+---------------------------------------------------------------
+Course ID: ENCS4045  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	0 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: ENCS3520  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	5 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS3080  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	0 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: ENCS3297  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	2 	 30 lines
+
+---------------------------------------------------------------
+Course ID: ENCS3545  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	5 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: ENCS3529  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	5 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS3541  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	5 	 Why are you looking here?
+
+---------------------------------------------------------------
+Course ID: ENCS3707  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	7 	 30 lines
+
+---------------------------------------------------------------
+Course ID: ENCS5286  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	2 	 Some Random topic
+
+---------------------------------------------------------------
+Course ID: ENCS4495  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	4 	 Time Complexity
+
+---------------------------------------------------------------
+Course ID: ENCS4337  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	3 	 Python Script
+
+---------------------------------------------------------------
+Course ID: ENCS4482  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	4 	 Python Script
+
+---------------------------------------------------------------
+Course ID: ENCS5116  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	1 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: FEN1  ||	 Name : Introduction to French 
+Department : French Language 
+
+Number of hours And topic presented:
+	3 	 letters, numbers, greetings, grammars, statement
+
+---------------------------------------------------------------
+Course ID: ENCS5677  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	6 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: ENCS5397  ||	 Name : Digital Systems 
+Department : Computer Engineering 
+
+Number of hours And topic presented:
+	3 	 topic = random.choice(topics)
+
+---------------------------------------------------------------
+Course ID: FREN11  ||	 Name : Introduction to French 
+Department : French Language 
+
+Number of hours And topic presented:
+	3 	 letters, numbers, greetings, grammars, statements
+
+---------------------------------------------------------------
+Course ID: FREN111  ||	 Name : Introduction to French 
+Department : French Language 
+
+Number of hours And topic presented:
+	3 	 letters, numbers, greetings, grammars, statements
+
+---------------------------------------------------------------
